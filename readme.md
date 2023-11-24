@@ -1,17 +1,17 @@
-# Proyecto de Bases de Datos de Clientes con Python, Flask y MySQL
+# Customer Database Project with Python, Flask, and MySQL
 
-Este proyecto es una aplicación web simple construida con Python y el framework Flask,
-Utiliza una base de datos MySQL para gestionar información de clientes.
+This project is a simple web application built with Python and the Flask framework.
+It utilizes a MySQL database to manage customer information.
 
-## Requisitos Previos
+## Prerequisites
 
-Asegúrate de tener instalados los siguientes elementos antes de ejecutar la aplicación:
+Make sure you have the following installed before running the application:
 
-- Python (versión recomendada: 3.x)
+- Python (recommended version: 3.x)
 - Flask
 - MySQL
 
-Puedes instalar las dependencias necesarias ejecutando:
+You can install the necessary dependencies by running:
 
 ```bash
 pip install flask
